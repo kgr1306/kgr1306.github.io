@@ -29,7 +29,7 @@ http://www.templatemo.com/tm-488-classic
         <div class="tm-header">
             <div class="container-fluid">
                 <div class="tm-header-inner">
-                    <a href="#" class="navbar-brand tm-site-name">Classic</a>
+                    <a href="#" class="navbar-brand tm-site-name">Kuo's blog</a>
                     
                     <!-- navbar -->
                     <nav class="navbar tm-main-nav">
