@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Classic - Responsive Bootstrap 4.0 Template</title>
+    <title>Kuo's blog</title>
 <!--
 Classic Template
 http://www.templatemo.com/tm-488-classic
@@ -46,9 +46,9 @@ http://www.templatemo.com/tm-488-classic
                                 <li class="nav-item">
                                     <a href="about.html" class="nav-link">About</a>
                                 </li>
-                                <!-- <li class="nav-item">
+                                <li class="nav-item">
                                     <a href="blog.html" class="nav-link">Blog</a>
-                                </li> -->
+                                </li>
                                 <li class="nav-item">
                                     <a href="contact.html" class="nav-link">Contact</a>
                                 </li>
